@@ -353,11 +353,11 @@
 			width: 0;
 		}
 		.sidebar_container_for_contacts {
-		margin: 5% 0 0 25%;
-	}
+			margin: 5% 0 0 25%;
+		}
 		.get_in_touch {
-		float: left;
-		margin: 10% 0 0 27%;
-	}
+			float: left;
+			margin: 10% 0 0 27%;
+		}
 	}
 }
