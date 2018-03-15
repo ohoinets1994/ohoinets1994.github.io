@@ -265,8 +265,7 @@
 
 	.block_for {
 		background-color: #FFFFFF;
-	/*
-		max-width: 1920px;*/
+		/*max-width: 1920px;*/
 		height: 200px;
 		/*border: 0.5px solid red;*/
 	}
@@ -342,5 +341,23 @@
 		right:22px;
 		display:none;
 		text-indent:-9999px;
+	}
+
+
+
+
+
+	@media screen and (min-width: 320px) and (max-width: 354px) {
+		
+		.block_one img {
+			width: 0;
+		}
+		.sidebar_container_for_contacts {
+		margin: 5% 0 0 25%;
+	}
+		.get_in_touch {
+		float: left;
+		margin: 10% 0 0 27%;
+	}
 	}
 }
