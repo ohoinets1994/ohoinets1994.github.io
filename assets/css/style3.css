@@ -19,7 +19,7 @@
 		/*max-width: 1920px;*/
 		height: 100px;
 		/*border: 0.5px solid red;*/
-		background-color: #FFEBCD;
+		background-color: #FFFFFF;
 	}
 	ul.menu {
 		float: left;
@@ -38,7 +38,7 @@
 	.block_one {
 		/*max-width: 1920px;*/
 		height: 200px;
-		background-color: #FFEBCD;
+		background-color: #FFFFFF;
 		/*border: 0.5px solid red;*/
 	}
 	.sidebar_container {
@@ -84,7 +84,7 @@
 
 
 	.block_two {
-		background-color: #FFEBCD;
+		background-color: #FFFFFF;
 		/*max-width: 1920px;*/
 		height: 830px;
 		/*border: 0.5px solid red;*/
@@ -148,7 +148,7 @@
 
 
 	.block_three {
-		background-color: #FFEBCD;
+		background-color: #FFFFFF;
 		/*max-width: 1920px;*/
 		height: 200px;
 		/*border: 0.5px solid red;*/
@@ -210,7 +210,7 @@
 
 
 	.block_three_second_part {
-		background-color: #FFEBCD;
+		background-color: #FFFFFF;
 		/*max-width: 1920px;*/
 		height: 130px;
 		/*border: 0.5px solid red;*/
@@ -264,7 +264,7 @@
 
 
 	.block_for {
-		background-color: #FFEBCD;
+		background-color: #FFFFFF;
 	/*
 		max-width: 1920px;*/
 		height: 200px;
@@ -325,7 +325,7 @@
 		height: 150px;
 	}
 	footer {
-		background-color: #FFEBCD;
+		background-color: #FFFFFF;
 	}
 	.footer_created_by {
 		/*background-color: #FFEBCD;*/
