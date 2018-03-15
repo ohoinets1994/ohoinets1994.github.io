@@ -1,0 +1,264 @@
+@media screen and (min-width: 1024px) and (max-width: 1640px) {
+	
+	input[type="text"]::-webkit-input-placeholder {
+		font: 90% serif;
+	}
+
+	ul.menu {
+		margin: 28px 19.7% 0 0;
+	}
+
+	ul.menu li a {
+		font: 76% cursive;
+		padding: 0px 0px 0px 41px;	
+	}
+
+	.block_one {
+		height: 550px;
+	}
+
+	.sidebar_container {
+		width: 235px;
+		height: 250px;
+		margin: 195px 0 0 19.4%;
+	}
+
+	.sidebar_container h2 {
+		font: 86% 'COSMIC', cursive;
+		margin-left: 60px;
+		font-weight: bolder;
+	}
+
+	#sent_request_form {
+		margin: 40px 0 0 0;
+	}
+
+	.sidebar_container h6 {
+		font: 70% serif;
+		margin: 22px 0px 7px 0px;
+
+	}
+
+	.btn {
+		width: 174px;
+		height: 42px;
+		margin: 34px 0px 0px 30px;
+		font: normal 85% cursive;
+	}
+
+	.block_one img {
+		max-width: 35%;
+		margin: 100px 20.5% 0 0;
+	}
+
+	.block_two {
+		max-width: 1920px;
+		height: 890px;
+		/*border: 3px solid red;*/
+	}	
+
+	#our_requirement {
+		margin: 147px 16.2% 0 0;
+	}
+
+	#our_requirement h2 {
+		font: 111% 'COSMIC', cursive;
+		font-weight: bolder;
+	}
+
+	#our_requirement p {
+		font-size: 89%;
+	}
+
+	.sidebar {
+		height: 29%;
+		margin: 220px 0 0 23.3%;
+	}
+
+	.sidebar img {
+		width: 21%;
+		margin: 51px 0 0 15%;
+	}
+
+	.sidebar h3 {
+		font: 77% 'Cosmic', cursive;
+		font-weight: bolder;
+		margin: 22px 0 0 15%;
+	}
+
+	.sidebar p {
+		font: 70% "minion-pro", serif;
+		margin: 14px 0 0 14%;
+		line-height: 1.4;
+	}
+
+	.sidebar2 {
+		margin: 42.5% 0 0 -17.77%;
+	}
+
+	.sidebar2 img {
+		margin: 47px 0 0 15%;
+	}
+
+	.sidebar2 h3 {
+		margin: 22px 0 0 15%;
+	}
+
+	.sidebar3 {
+		margin: 5% 0 0 4.77%;
+	}
+
+	.sidebar3 img {
+		margin: 42px 0 0 15%;
+	}
+
+	.sidebar3 h3 {
+		margin: 21px 0 0 14%;
+	}
+
+	.block_three {
+		max-width: 1920px;
+		height: 325px;
+		/*border: 3px solid red;*/
+	}
+
+	.block_three h2 {
+		/*float: left;*/
+		font: 111% 'COSMIC', cursive;
+		font-weight: bolder;
+		margin: 83px 0 2px 45.65%;
+	}
+
+	.career {
+		margin: 100px 0 0 23%;
+	}
+
+	.career img {
+		max-width: 90%;
+		height: auto;
+	}
+
+	.career h3 {
+		font: 78% cursive;
+		font-weight: bolder;
+		margin: 18px 0 0 6%;
+	}
+
+	.working {
+		margin: 80px 0 0 9.22%;
+	}
+
+	.working img {
+		max-width: 53%;
+	}
+
+	.working h3 {
+		font: 84% cursive;
+		font-weight: bolder;
+	}
+
+	.workplace {
+		margin: 102px 0 0 4%;
+	}
+
+	.workplace img {
+		max-width: 54%;
+	}
+
+	.workplace h3 {
+		font: 81% cursive;
+		font-weight: bolder;
+		margin: 9px 0 0 0;
+	}
+
+	.block_three_second_part {
+		max-width: 1920px;
+		height: 300px;
+		/*border: 3px solid red;*/
+	}
+
+	.salary img {
+		max-width: 75%;
+		height: auto;
+		margin: 0 0 0 5%;
+	}
+
+	.salary h3 {
+		font: 74% cursive;
+		font-weight: bolder;
+		margin: 8px 0 0 0;
+	}
+
+	.activities img {
+		max-width: 50%;
+	}
+
+	.activities h3 {
+		font: 74% cursive;
+		font-weight: bolder;
+		margin: 14px 0 0 0;
+	}
+
+	.lessons img {
+		max-width: 86%;
+	}
+
+	.lessons h3 {
+		font: 75% cursive;
+		font-weight: bolder;
+	}
+
+	.block_for {
+		max-width: 1920px;
+		height: 480px;
+		/*border: 3px solid red;*/
+	}
+
+	.contacts {
+		font: 120% 'COSMIC', cursive;
+		font-weight: bolder;
+		margin: 62px 0 0 47.75%;
+	}
+
+	.sidebar_container_for_contacts {
+		margin: 77px 0 0 21.65%;
+	}
+
+	.get_in_touch {
+		margin: 66px 19.75% 0 0;
+	}
+
+	.get_in_touch h2 {
+		font: 90% 'COSMIC', cursive;
+		font-weight: bolder;
+	}
+
+	.get_in_touch p {
+		font: 76% 'COSMIC', cursive;
+		font-weight: bolder;
+		margin: 49px 0 0 0;
+		line-height: 2.3;
+	}
+
+	.linkedin {
+		margin: 50px 0 0 3%; 
+	}
+
+	.twitter {
+		margin: 50px 0 0 14%;
+	}
+
+	.fb {
+		margin: 50px 0 0 14%;
+	}
+
+	#map {
+		width: 100%;
+		height: 462px;
+	}
+
+	.footer_created_by {
+		font: 62% 'COSMIC', cursive;
+		margin: 20px 0 20px 46%;
+	}
+}
